@@ -1,4 +1,4 @@
-## Project Summary:
+## Project Objective:
 The project aims to evaluate the effectiveness of a $5 million marketing campaign aimed at promoting a debt relief program and to provide strategic recommendations for future campaign improvements. The analysis utilized client, deposit, and calendar data to assess campaign success and predict potential performance changes if launched in a different time frame.
 
 ## Technical Details:
