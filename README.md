@@ -1,7 +1,7 @@
-## Project Objective:
+## Project Objective
 The project aims to evaluate the effectiveness of a $5 million marketing campaign aimed at promoting a debt relief program and to provide strategic recommendations for future campaign improvements. The analysis utilized client, deposit, and calendar data to assess campaign success and predict potential performance changes if launched in a different time frame.
 
-## Technical Details:
+## Technical Details
 - Analyzed a dataset of 480,394 client deposits spanning 5 months using Python libraries including pandas, matplotlib, and seaborn to assess campaign effectiveness.
 - Demonstrated campaign success by identifying an increase of 11,544 new clients during the campaign month, as measured by unique client ID analysis before and after the campaign period.
 - Quantified campaign impact by observing a $9.8 million increase in monthly deposit amounts from pre-campaign to campaign month, rising from $29.9 million to $39.7 million, using time series analysis and visualization.
