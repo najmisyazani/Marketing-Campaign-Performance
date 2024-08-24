@@ -4,21 +4,21 @@ The project aims to evaluate the effectiveness of a $5 million marketing campaig
 ## Key Metrics
 - **New Client Acquisition Rate (North Star Metric)**
 
-Definition: The number of new clients acquired during and immediately after the campaign period.
+**Definition:** The number of new clients acquired during and immediately after the campaign period.
 
-Explanation: This metric directly measures the campaign's effectiveness in attracting new customers, which is a primary goal of most marketing campaigns. It provides a clear indicator of growth and market penetration. As you noted, more clients acquired typically corresponds to a higher success rate of the campaign.
+**Explanation:** This metric directly measures the campaign's effectiveness in attracting new customers, which is a primary goal of most marketing campaigns. It provides a clear indicator of growth and market penetration. As you noted, more clients acquired typically corresponds to a higher success rate of the campaign.
 
 - **Total Deposit Amount**
 
-Definition: The sum of all deposits made by clients during and after the campaign period.
+**Definition:** The sum of all deposits made by clients during and after the campaign period.
 
-Explanation: This metric reflects the financial impact of the campaign. An increase in total deposits indicates not only that new clients were acquired, but that they are actively engaging with the debt relief program. It also captures any increase in deposits from existing clients who may have been influenced by the campaign.
+**Explanation:** This metric reflects the financial impact of the campaign. An increase in total deposits indicates not only that new clients were acquired, but that they are actively engaging with the debt relief program. It also captures any increase in deposits from existing clients who may have been influenced by the campaign.
 
 - **Customer Lifetime Value (CLV) by Demographic Segment**
 
-Definition: The predicted net profit attributed to the entire future relationship with a customer, segmented by demographic factors (e.g., age, region, homeownership status).
+**Definition:** The predicted net profit attributed to the entire future relationship with a customer, segmented by demographic factors (e.g., age, region, homeownership status).
 
-Explanation: This metric helps identify which demographic groups contribute the most value over time. It can be used to refine future marketing strategies by targeting the most profitable segments. CLV takes into account not just initial deposits, but also the long-term value each client brings to the business.
+**Explanation:** This metric helps identify which demographic groups contribute the most value over time. It can be used to refine future marketing strategies by targeting the most profitable segments. CLV takes into account not just initial deposits, but also the long-term value each client brings to the business.
 
 ## Technical Details
 - Analyzed a dataset of 480,394 client deposits spanning 5 months using Python libraries including pandas, matplotlib, and seaborn to assess campaign effectiveness.
